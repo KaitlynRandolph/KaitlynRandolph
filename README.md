@@ -8,7 +8,6 @@
 
 ## Contact me
 - Personal site:
-- LinkedIn: https://www.linkedin.com/in/kaitlyn-randolph/
 
 ## Programming languages
 - Proficient: Python, HTML, CSS
