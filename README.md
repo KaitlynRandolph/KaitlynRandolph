@@ -7,7 +7,7 @@
 - 🎸 Fun fact: I've been learning to play electric guitar during my time in quarantine!
 
 ## Contact me
-- Personal site:
+- Personal site: www.kaitlyn.io
 
 ## Programming languages
 - Proficient: Python, HTML, CSS
