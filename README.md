@@ -2,6 +2,7 @@
 
 ## I'm a software engineer seeking a full-time position as a web developer.
 - 💻 I’m looking for a full-time position as a web developer.
+- 🎓 I have a bachelor's in Software Engineering from Auburn University.
 
 ## Contact me
 - Personal site: [kaitlynrandolph.github.io](https://kaitlynrandolph.github.io)
