@@ -1,7 +1,7 @@
 ### Hi, I'm Kaitlyn. 👩‍💻
 
 ## I'm a software engineer seeking a full-time position as a web developer.
-- 💻 I’m looking for a full-time position as a web developer.
+- 💻 I have experience working in web development in both a school and freelance setting.
 - 🎓 I have a bachelor's in Software Engineering from Auburn University.
 
 ## Contact me
