@@ -4,7 +4,7 @@
 - 💻 I’m looking for a full-time position as a web developer.
 
 ## Contact me
-- Personal site: [kaitlynrandolph.github.io](kaitlynrandolph.github.io)
+- Personal site: [kaitlynrandolph.github.io](https://kaitlynrandolph.github.io)
 
 ## Programming languages
 - Proficient: Python, HTML, CSS
