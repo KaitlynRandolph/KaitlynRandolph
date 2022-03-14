@@ -11,7 +11,7 @@
 
 ## Programming languages
 - Proficient: Python, HTML, CSS
-- Experience in: Java, C++, Javascript, SQL
+- Experience in: Java, C++, Javascript, SQL, lua
 
 ## Tools
 - Proficient: PyCharm, Sublime Text, git, Git Bash, GitHub
