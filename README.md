@@ -15,4 +15,4 @@
 
 ## Tools
 - Proficient: PyCharm, Sublime Text, git, Git Bash, GitHub
-- Experience in: Visual Studio, LOVE2D, Godot
+- Experience in: Visual Studio, LOVE2D, Godot, Sublime Merge, Command Line (Windows, Linux, and MacOS)
